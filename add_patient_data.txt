@@ -1,0 +1,22 @@
+
+
+
+Adhaar number : 234567891357
+Name : kanishka
+Mobile no. : 8077083567
+Gender : F
+Age : 18
+Vaccine name : Covaxin
+Dose : 2
+center : 1
+objectend
+
+Adhaar number : 234567891234
+Name : kanishka
+Mobile no. : 7302283567
+Gender : F
+Age : 18
+Vaccine name : Covidshield
+Dose : 2
+Center : 2
+objectend
